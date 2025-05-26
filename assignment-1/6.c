@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main() {
-    printf("Hello Students");
+    printf("\"Teacher\'s Day\"");
     return 0;
 }
